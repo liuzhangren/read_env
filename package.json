@@ -1,5 +1,5 @@
 {
-  "name": "read_env",
+  "name": "jsbz.readenv",
   "main": "dist/index.js",
   "version": "0.0.0",
   "scripts": {
