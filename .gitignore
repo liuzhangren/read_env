@@ -21,7 +21,6 @@ yarn.lock
 yarn*log
 .yarn*
 
-src
 public
 .storybook
 
