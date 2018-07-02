@@ -1,9 +1,11 @@
 {
   "name": "jsbz.readenv",
   "main": "dist/index.js",
-  "version": "0.0.3",
+  "version": "0.0.4",
   "scripts": {
-    "rebuild": "gulp rebuild"
+    "rebuild": "gulp rebuild",
+    "build": "gulp build",
+    "postinstall": "npm run build"
   },
   "dependencies": {
     "fs": "0.0.1-security",
